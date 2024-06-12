@@ -18,9 +18,6 @@ QA
 
 Chris Ventura - www.linkedin.com/in/chrisvcorreia
 
-Paulo Coito- www.linkedin.com/in/paulo-coito-603ab62b9
-
-
 Paulo Marques - www.linkedin.com/in/paulo-coito-603ab62b9
 
 Dev
