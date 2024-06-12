@@ -17,12 +17,14 @@ Manoela Augusta Santos - www.linkedin.com/in/manoela-augusta-santos
 QA
 
 Chris Ventura - www.linkedin.com/in/chrisvcorreia
+
 Paulo Coito- www.linkedin.com/in/paulo-coito-603ab62b9
 
 
 Paulo Marques - www.linkedin.com/in/paulo-coito-603ab62b9
 
 Dev
+
 James Bassani - www.linkedin.com/in/jheimys
 
 Thaleson Silva - www.linkedin.com/in/thaleson-silva-9298a0296
