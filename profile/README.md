@@ -27,6 +27,6 @@ Dhara Yasmim - www.linkedin.com/in/dharayasmim/
 #### Dev
 
 James Bassani - www.linkedin.com/in/jheimys  
-Thaleson Silva - www.linkedin.com/in/thaleson-silva-9298a0296
+Thaleson Silva - www.linkedin.com/in/thaleson-silva-9298a0296 
 Roberta Minalva - www.linkedin.com/in/roberta-minhava/
 
