@@ -8,25 +8,31 @@ Integrantes:
 #### SM
 
 Marilene Arquimimo - www.linkedin.com/in/marilene-arquimimo-santos  
-Ronald Petrotheli - www.linkedin.com.br/in/RonaldPetrothelicapm
+Gabriela Fogli - https://www.linkedin.com/in/gabrielafogli
 
 #### PO
 
 Andreia Aguiar - www.linkedin.com/in/product-owner-produt-manager   
-Mayla Minelli - www.linkedin.com/in/maylaminelli?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
+  
 
 #### QA
 
 Chris Ventura - www.linkedin.com/in/chrisvcorreia  
-Paulo Marques - www.linkedin.com/in/paulo-coito-603ab62b9
+Mayla Minelli - www.linkedin.com/in/maylaminelli?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 #### UX
 
-Dhara Yasmim - www.linkedin.com/in/dharayasmim/
+Juliana Guerra   
+Gilda Menezes 
 
 #### Dev
 
-James Bassani - www.linkedin.com/in/jheimys  
-Thaleson Silva - www.linkedin.com/in/thaleson-silva-9298a0296  
+##### FrontEnd
+Thaleson Silva - https://www.linkedin.com/in/thaleson-silva/  
+Joel Santos  
+
+##### BackEnd
+Lucas Whirt - https://www.linkedin.com/in/lucas-whirt  
+Anderson Araujo - https://www.linkedin.com/in/alvesaanderson  
 
 
