@@ -15,6 +15,9 @@ Marilene Arquimimo - www.linkedin.com/in/marilene-arquimimo-santos
 Andreia Aguiar - www.linkedin.com/in/product-owner-produt-manager   
 Gabriela Fogli - https://www.linkedin.com/in/gabrielafogli
   
+#### Tech Lead
+
+André Pereira - https://www.linkedin.com/in/dev-afpereira/
 
 #### QA
 
