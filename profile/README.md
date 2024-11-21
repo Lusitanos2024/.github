@@ -8,6 +8,7 @@ Integrantes:
 #### SM
 
 Marilene Arquimimo - www.linkedin.com/in/marilene-arquimimo-santos  
+Carla Panegocci - https://www.linkedin.com/in/carla-panegocci-4a01a6202/   
 
 
 #### PO
@@ -26,7 +27,7 @@ Aline Ortiz - https://www.linkedin.com/in/ortizaline-qa/
 
 #### UX
 
-Juliana Guerra   
+Juliana Guerra - https://www.linkedin.com/in/juliana-guerra-ux-ui-design-product-design-figma-prot%C3%B3tipo-2aa9bb269/   
 
 #### Dev
 
